@@ -1,0 +1,144 @@
+{
+  "enquiry": [
+    {
+      "firstName": "sumit",
+      "lastName": "pote",
+      "email": "as@gmail.com",
+      "mobile": "08623038294",
+      "weight": 80,
+      "height": 2,
+      "bmi": 20,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and endirance",
+        "BULidng leN Muscles"
+      ],
+      "havegymBefore": "Yes",
+      "enquiryDate": "2023-03-07T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "nikhil",
+      "lastName": "pote",
+      "email": "as@gmail.com",
+      "mobile": "08623038294",
+      "weight": 80,
+      "height": 2,
+      "bmi": 20,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and endirance",
+        "BULidng leN Muscles"
+      ],
+      "havegymBefore": "Yes",
+      "enquiryDate": "2023-03-07T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "anil",
+      "lastName": "pote",
+      "email": "as@gmail.com",
+      "mobile": "08623038294",
+      "weight": 80,
+      "height": 2,
+      "bmi": 20,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and endirance",
+        "BULidng leN Muscles"
+      ],
+      "havegymBefore": "Yes",
+      "enquiryDate": "2023-03-07T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "kaniil",
+      "lastName": "pote",
+      "email": "as@gmail.com",
+      "mobile": "08623038294",
+      "weight": 80,
+      "height": 2,
+      "bmi": 20,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and endirance",
+        "BULidng leN Muscles"
+      ],
+      "havegymBefore": "Yes",
+      "enquiryDate": "2023-03-07T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "manul",
+      "lastName": "pote",
+      "email": "as@gmail.com",
+      "mobile": "08623038294",
+      "weight": 80,
+      "height": 2,
+      "bmi": 20,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and endirance",
+        "BULidng leN Muscles"
+      ],
+      "havegymBefore": "Yes",
+      "enquiryDate": "2023-03-07T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "firstName": "krantil",
+      "lastName": "pote",
+      "email": "as@gmail.com",
+      "mobile": "08623038294",
+      "weight": 80,
+      "height": 2,
+      "bmi": 20,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and endirance",
+        "BULidng leN Muscles"
+      ],
+      "havegymBefore": "Yes",
+      "enquiryDate": "2023-03-07T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "firstName": "nirantil",
+      "lastName": "pote",
+      "email": "as@gmail.com",
+      "mobile": "08623038294",
+      "weight": 80,
+      "height": 2,
+      "bmi": 20,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and endirance",
+        "BULidng leN Muscles"
+      ],
+      "havegymBefore": "Yes",
+      "enquiryDate": "2023-03-07T18:30:00.000Z",
+      "id": 7
+    }
+  ]
+}
